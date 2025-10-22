@@ -8,3 +8,6 @@ more texts
 
 ## new sub header
 more and more texts
+
+## new instructions set
+1) open index.html in your web browser
